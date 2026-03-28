@@ -110,7 +110,3 @@ pdf-summarizer/
 - Any modern browser
 
 ---
-
-## 📝 License
-
-MIT License — free to use and modify.
